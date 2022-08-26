@@ -4,7 +4,7 @@ Run
 Via npx
 
 ```
-$ npx makeitrealcamp
+$ npx juandiazdev
 ```
 
 Stetps
@@ -104,5 +104,5 @@ $ npm publish
 ```
 9. Run your npm-package card
 ```bash
-$ npx makeitrealcamp
+$ npx juandiazdev
 ```
