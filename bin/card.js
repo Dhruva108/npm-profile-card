@@ -13,7 +13,7 @@ const data = {
   name: chalk.white('           Juan Diaz'),
   handle: chalk.white('@dhruva018'),
   shorthandle: chalk.white('JP'),
-  work: chalk.white('Full stack developer'),
+  work: chalk.white('Full stack JS developer'),
   github: chalk.gray('https://github.com/') + chalk.green('Dhruva108'),
   linkedin: chalk.gray('https://www.linkedin.com/in/') + chalk.blue('juan-díaz-a91200243'),
   npx: `${chalk.red('npx')} ${chalk.white('juandiazdev')}`,
